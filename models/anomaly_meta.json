@@ -1,0 +1,16 @@
+{
+  "features": [
+    "Cycle Length",
+    "Period Length",
+    "Stress Level",
+    "BMI",
+    "Sleep Hours"
+  ],
+  "contamination": 0.1,
+  "n_estimators": 100,
+  "pca_components": 2,
+  "pca_variance_pc1": 0.231,
+  "pca_variance_pc2": 0.2086,
+  "total_anomalies": 90,
+  "anomaly_rate_pct": 10.06
+}

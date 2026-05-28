@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Secrets
+.streamlit/secrets.toml
+ngrok_token.txt
+
+# Jupyter / Colab
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files (if any)
+*.h5
+*.pt
